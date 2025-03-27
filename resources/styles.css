@@ -1,0 +1,42 @@
+QMainWindow {
+    background-image: url(resources/result_backg.jpg);  
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px
+}
+
+QPushButton {
+    background-color: #e43535;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 22px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #81a1c1;
+    color: #eceff4;
+}
+
+QLineEdit {
+    background-color: #3b4252;
+    color: #eceff4;
+    border: 1px solid #81a1c1;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 22px;
+    min-width: 300px;  
+}
+
+QLabel {
+    color: #d8dee9;
+    font-size: 28px;
+    padding: 5px;
+    font-weight: bold;
+    border: 2px solid #81a1c1;
+    border-radius: 10px;
+    background-color: rgba(59, 66, 82, 0.7);
+}
