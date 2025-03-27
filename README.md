@@ -79,7 +79,7 @@ python main.py
 Contributions are welcome! Please open an issue or submit a PR.
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/EntasaDev/Numerix/blob/main/LICENSE) file for details.
 ## Maintainer
 
 - [EntasaDev](https://github.com/EntasaDev)
@@ -160,7 +160,7 @@ python main.py
 - `abs(sin(x)) + sqrt(cos(x^2))`
 ## Лицензия
 
-Проект распространяется под лицензией MIT - подробности в файле [LICENSE](https://LICENSE).
+Проект распространяется под лицензией MIT - подробности в файле [LICENSE](https://github.com/EntasaDev/Numerix/blob/main/LICENSE).
 ## Автор
 
 - [EntasaDev](https://github.com/EntasaDev)
